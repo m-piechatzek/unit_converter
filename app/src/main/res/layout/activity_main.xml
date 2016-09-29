@@ -39,7 +39,8 @@
         android:layout_below="@+id/textView2"
         android:layout_alignLeft="@+id/textView2"
         android:layout_alignStart="@+id/textView2"
-        android:layout_marginTop="52dp" />
+        android:layout_marginTop="52dp"
+        android:textColor="@android:color/holo_blue_bright" />
 
     <EditText
         android:layout_width="wrap_content"
